@@ -1,0 +1,1 @@
+<?php      $connect = new PDO('mysql:host=127.0.0.1:52013;dbname=comp1006', 'azure', '6#vWHD_$'); ?>
